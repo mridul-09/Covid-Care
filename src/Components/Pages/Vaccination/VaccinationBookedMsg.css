@@ -1,0 +1,13 @@
+.vaccination-booked_msg {
+  display: flex;
+  align-items: center;
+  padding-top: 10px;
+}
+.vaccination-booked_msg img {
+  width: 30rem;
+  height: 30rem;
+}
+.vaccination-booked_msg p {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
